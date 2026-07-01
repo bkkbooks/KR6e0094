@@ -1,0 +1,228 @@
+canonical_identifier: bkk:krp/KR6e0094/T/v1
+canonical_location: https://kanripo.org/bkk/KR6e0094/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 華嚴發菩提心章
+  identifiers:
+    krp: KR6e0094
+    cbeta: T45n1878
+    cbeta_old_id: T45n1878
+    authorityid: CA0001360
+    json_key: T1878
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T45/T45n1878.xml
+    old_id: T45n1878
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6e0094_000-T.yaml, hash: 'sha256:03fed3a3104cc5f098e5c101c947c36b0d9c28d161a96e37daae80e74c4b8b31'}
+  - {seq: 1, filename: KR6e0094_001-T.yaml, hash: 'sha256:2d51326d22ea27413e140455e08cbb8dec4189e828b66496e9e707f0820d3029'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6e0094_000-T.markers.yaml, hash: 'sha256:042b92695dc8acb37e0a372cc6def8d6aadceba5c7fc341e15ad70c6d90a975b'}
+  - {seq: 1, role: markers, filename: assets/KR6e0094_001-T.markers.yaml, hash: 'sha256:9e585dcc053326d93ac9a19796bba18919239808a949ab831a8e37911497cf42'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6e0094_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 7192
+  label: 華嚴發菩提心章
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-1
+    span:
+    - body
+    - 25
+    - 25
+  label: 1 發心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-2
+    span:
+    - body
+    - 728
+    - 728
+  label: 2 簡教
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-3
+    span:
+    - body
+    - 1315
+    - 1315
+  label: 3 顯過
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-4
+    span:
+    - body
+    - 1914
+    - 1914
+  label: 1 真空觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-5
+    span:
+    - body
+    - 2666
+    - 2666
+  label: 2 理事無礙觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-6
+    span:
+    - body
+    - 3934
+    - 3934
+  label: 3 周遍含容觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-7
+    span:
+    - body
+    - 4642
+    - 4642
+  label: 4 色空章十門止觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-8
+    span:
+    - body
+    - 5139
+    - 5139
+  label: 5 理事圓融義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-9
+    span:
+    - body
+    - 5139
+    - 5139
+  label: 1 理事俱融門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-10
+    span:
+    - body
+    - 5280
+    - 5280
+  label: 2 理法隱顯門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-11
+    span:
+    - body
+    - 5449
+    - 5449
+  label: 3 事法存泯門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-12
+    span:
+    - body
+    - 5618
+    - 5618
+  label: 4 事事相在門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-13
+    span:
+    - body
+    - 5854
+    - 5854
+  label: 5 一事隱現門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-14
+    span:
+    - body
+    - 6050
+    - 6050
+  label: 6 多事隱現門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-15
+    span:
+    - body
+    - 6215
+    - 6215
+  label: 7 事事相是門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-16
+    span:
+    - body
+    - 6461
+    - 6461
+  label: 8 一多存泯門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-17
+    span:
+    - body
+    - 6620
+    - 6620
+  label: 9 多事存泯門
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6e0094_T_001-mulu-18
+    span:
+    - body
+    - 6834
+    - 6834
+  label: 10 圓融具德門
+  type: mulu
+  level: 1
+hash: sha256:fdf5acfa235c5cc2e9691b66b2b80d794f0583c604ad659216fb5c2641c3f9c1
