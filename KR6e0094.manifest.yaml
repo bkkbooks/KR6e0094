@@ -27,11 +27,11 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0094_000.yaml, hash: 'sha256:1cca26b7051bff89b747dd036574f27e3367dd0fbdb3e3173cd6f72695e64a04'}
-  - {seq: 1, filename: KR6e0094_001.yaml, hash: 'sha256:d98b21d1706ba6ab0d08af70c6b829bd939a8ea3b4ec331cc42260f344750400'}
+  - {seq: 0, filename: KR6e0094_000.yaml, hash: 'sha256:03fed3a3104cc5f098e5c101c947c36b0d9c28d161a96e37daae80e74c4b8b31'}
+  - {seq: 1, filename: KR6e0094_001.yaml, hash: 'sha256:2d51326d22ea27413e140455e08cbb8dec4189e828b66496e9e707f0820d3029'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0094_000.markers.yaml, hash: 'sha256:492a226bef9bc5ef41fd051d4d97c35ed1b26f23227f02f81f973aeed457c29a'}
-  - {seq: 1, role: markers, filename: assets/KR6e0094_001.markers.yaml, hash: 'sha256:061f1aee42b50886067857a5e834bebb97f1ceec9f9543d839dae36510793f3b'}
+  - {seq: 0, role: markers, filename: assets/KR6e0094_000.markers.yaml, hash: 'sha256:4eea717f36dc9540a1ca7173d246d8520237fc98cf81d46b540da4978ef5a7b5'}
+  - {seq: 1, role: markers, filename: assets/KR6e0094_001.markers.yaml, hash: 'sha256:df7379990e532c86f346142131b45df088c30d2e3f4aeac60d3da67972f8af8d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -233,7 +233,4 @@ table_of_contents:
   label: 10 圓融具德門
   type: mulu
   level: 1
-hash: sha256:06b8d8194c7daee27b9a344c19d972e6ad6f32f082251fd54a0d1418abeef1e1
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:5cb8f3020c78e6cc4326ca29c55e9d02a3de23d9c0cd389ce29ea0282f9f8a64
