@@ -27,17 +27,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0094_000.yaml, hash: 'sha256:5486f76b6f0714ce1b3b19c1d2fd777e5c88da143731caadf8aad3a8cf016eab'}
+  - {seq: 0, filename: KR6e0094_000.yaml, hash: 'sha256:45b53a0515c805fc974ce882367ccb8f3a3d8d4b43b0e7d790de12fef39f091f'}
   - {seq: 1, filename: KR6e0094_001.yaml, hash: 'sha256:8dfe6808fdc1a9fe3058c28be7ca6609e4e266b14fc69d7e347239a2285bad75'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0094_000.markers.yaml, hash: 'sha256:b811f1cf456c88548dd1a56366022bc18bc607973de1220ad044f2cc2c10e81b'}
+  - {seq: 0, role: markers, filename: assets/KR6e0094_000.markers.yaml, hash: 'sha256:50cf4f6989f39a571494139340e462636c1291f8308b0bda21ec05bfc1776edf'}
   - {seq: 1, role: markers, filename: assets/KR6e0094_001.markers.yaml, hash: 'sha256:43f060c385e81b3688f7ef0d58538f76137b3fff4e52fc2aa2e78209146fc7a3'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6e0094_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 凡例
@@ -233,7 +233,7 @@ table_of_contents:
   label: 10 圓融具德門
   type: mulu
   level: 1
-hash: sha256:174fef04556dd68f6afa865c9a19a8677a61f470cbda0c62b4b4b5c092970521
+hash: sha256:a411ae8922ea346caa3dcffdb485c9d8894daa3378c595bd6a02043e51be80a7
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

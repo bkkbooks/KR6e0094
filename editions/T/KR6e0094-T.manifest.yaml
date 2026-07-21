@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6e0094_000-T.yaml, hash: 'sha256:03fed3a3104cc5f098e5c101c947c36b0d9c28d161a96e37daae80e74c4b8b31'}
+  - {seq: 0, filename: KR6e0094_000-T.yaml, hash: 'sha256:46a07f9d5c75fc599a28c8ee9a2a9f8c64e4af0855e41a061eee38cb0fcc148f'}
   - {seq: 1, filename: KR6e0094_001-T.yaml, hash: 'sha256:2d51326d22ea27413e140455e08cbb8dec4189e828b66496e9e707f0820d3029'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6e0094_000-T.markers.yaml, hash: 'sha256:042b92695dc8acb37e0a372cc6def8d6aadceba5c7fc341e15ad70c6d90a975b'}
+  - {seq: 0, role: markers, filename: assets/KR6e0094_000-T.markers.yaml, hash: 'sha256:e136bdce7e8b4633e546d057269f4bf1848a32bc12bdda98f30de996cfbe64b7'}
   - {seq: 1, role: markers, filename: assets/KR6e0094_001-T.markers.yaml, hash: 'sha256:9e585dcc053326d93ac9a19796bba18919239808a949ab831a8e37911497cf42'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6e0094_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 凡例
@@ -225,4 +225,4 @@ table_of_contents:
   label: 10 圓融具德門
   type: mulu
   level: 1
-hash: sha256:fdf5acfa235c5cc2e9691b66b2b80d794f0583c604ad659216fb5c2641c3f9c1
+hash: sha256:3a9f31679c6bc756a4f5c03ffe4c7729cd2fb6be4dbba461fb21670683ad52e0

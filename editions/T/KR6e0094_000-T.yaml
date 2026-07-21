@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6e0094/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 華嚴發菩提心章凡例此章別有異本而文畫多紕謬字句頗缺脫今以梅尾南都諸本隨義參訂改正筆削非私意也每值文有大異繫之鼇頭法界義鏡曰香象大師菩提心章載法界觀門以明發心相故今章明第四表德中有五門自第一真空觀至第三周遍含容觀全舉彼觀文耳也又如圓超疏鈔錄凝然華嚴宗要義永超東域傳燈錄及高山寺藏目等皆標為賢首撰也世別有題為華嚴三昧章者然其文大同此章今謂是乃後學誤以今章殘編為三昧章者耶故探玄記說十重唯識曰上來所明約教就解而說若就觀行亦有十重如一卷華嚴三昧中說云然考世所題為三昧章者總無其文故知彼非其於探玄記所指者必矣正德四年納錦綾山曼陀羅院
   hash: sha256:c2adccf35965e4e87287d99f528b8ba5dc6a8f8b54c405029e256ae6e82700a0
   markers:
   - {type: 序, offset: 0, content: 凡例, id: KR6e0094_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 華嚴發菩提心章
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T45/T45n1878.xml
     old_id: T45n1878
-hash: sha256:03fed3a3104cc5f098e5c101c947c36b0d9c28d161a96e37daae80e74c4b8b31
+hash: sha256:46a07f9d5c75fc599a28c8ee9a2a9f8c64e4af0855e41a061eee38cb0fcc148f
